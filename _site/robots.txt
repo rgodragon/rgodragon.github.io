@@ -1,1 +1,1 @@
-Sitemap: /portfolio/sitemap.xml
+Sitemap: /flexible-jekyll/sitemap.xml
