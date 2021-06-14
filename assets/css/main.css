@@ -961,6 +961,7 @@ table tfoot td {
   -o-transition: transform 0.35s;
   transition: transform 0.35s;
   transition: transform 0.35s, -webkit-transform 0.35s;
+  object-fit: cover;
 }
 
 .about img:hover {
