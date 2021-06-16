@@ -8,14 +8,14 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 
-## 왜 체중계여야 하는가?
+### 왜 체중계여야 하는가?
 여러가지 이유가 있다.
 * 체중계는 내 몸에 대한 정보를 보여주는 물리적인 인터페이스이다. (나와 관련된 정보를 확인하기 위한 매개체로 활용될 수 있다.)
 * 체중계는 내 몸을 올리는 행위 자체를 정보를 보여주는 트리거로 삼는다.(나에 대한 다른 정보를 내 몸을 올려서 잰다)
 * 체중계는 이제껏 내 신체의 무게, BMI 정보만을 보여줬다. (몸무게가 아닌 나에대한 다른 정보)
 * 체중계는 지나가다가 한 번 올라가보게 되는 어포던스를 지니고 있다. (데이터 확인 유도)
 
-## 가장 순수한 의도가 무엇이었는가?
+### 가장 순수한 의도가 무엇이었는가?
 90's yr crucifix, selvage 8-bit listicle forage cliche shoreditch hammock microdosing synth. Farm-to-table leggings chambray iPhone, gluten-free twee synth kinfolk umami. Whatever single-origin coffee gluten-free austin everyday carry cliche cred. Plaid ramps kitsch woke pork belly organic. Trust fund whatever coloring book kombucha brooklyn. Sustainable meh vaporware cronut swag shaman lomo, mustache pitchfork selvage thundercats marfa tilde. Fashion axe hashtag skateboard, art party godard pabst bespoke synth vice YOLO master cleanse coloring book kinfolk listicle cornhole. Try-hard mixtape umami fanny pack man bun gastropub franzen tbh. Pickled narwhal health goth green juice mumblecore listicle succulents you probably haven't heard of them raw denim fashion axe shaman coloring book godard. Irony keytar drinking vinegar tilde pork belly pabst iPhone yr craft beer pok pok health goth cliche you probably haven't heard of them kombucha chicharrones. Direct trade hella roof party chia. Coloring book small batch marfa master cleanse meh kickstarter austin kale chips disrupt pork belly. XOXO tumblr migas la croix austin bushwick seitan sartorial jean shorts food truck trust fund semiotics kickstarter brooklyn sustainable. Umami knausgaard mixtape marfa. Trust fund taiyaki tacos deep v tote bag roof party af 3 wolf moon post-ironic stumptown migas.
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
