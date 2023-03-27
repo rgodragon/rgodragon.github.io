@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Kyung-Ryong Lee"
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "Somewhere"
   email            :
   links:
