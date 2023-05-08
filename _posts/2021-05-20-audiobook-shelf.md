@@ -4,8 +4,6 @@ header:
   video:
     id: QflAEJzDn5A
     provider: youtube
-categories:
-  - Research
 tags:
   - video
   - layout

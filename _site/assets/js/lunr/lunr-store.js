@@ -384,8 +384,8 @@ var store = [{
         "teaser": "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
       },{
         "title": "Audiobook-Shelf (for Naver AudioClip)",
-        "excerpt":"Download: PDF, 기사보도, Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical book-...","categories": ["Research"],
+        "excerpt":"Download: PDF, 기사보도, Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical book-...","categories": [],
         "tags": ["video","layout"],
-        "url": "/research/audiobook-shelf/",
+        "url": "/audiobook-shelf/",
         "teaser": null
       }]
