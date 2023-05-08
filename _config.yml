@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kyung-Ryong Lee's portfolio"
+title                    : "VIDEO ARCHIVES"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kyung-Ryong Lee"
@@ -107,27 +107,31 @@ analytics:
 author:
   name             : "Kyung-Ryong Lee"
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : "Somewhere"
+  bio              : "Ph.D in Creative Design Engineering, UNIST" 
+  location         : 
   email            :
   links:
-    - label: "Email"
+    - label: "Download CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://drive.google.com/file/d/1_oVHNpPmMhDzPBz5SG5AjknCgIBM72uT/view?usp=share_link"
+    - label: "Summary of Doctoral Research"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://drive.google.com/file/d/1ABMeNM0Ldj9NpAFRDeVf-P0b2tBQLHVU/view?usp=share_link"
+    - label: "rgodragon@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://rgodragon.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "mailto:rgodragon@gmail.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://rgodragon.github.io"
+
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/rgodragon"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer

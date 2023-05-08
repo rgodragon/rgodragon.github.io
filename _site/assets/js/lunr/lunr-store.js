@@ -383,15 +383,9 @@ var store = [{
         "url": "/jekyll/welcome-to-jekyll/",
         "teaser": "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
       },{
-        "title": "Layout: Header Video",
-        "excerpt":"This post should display a header with a responsive video, if the theme supports it. Settings Parameter Required Description id Required ID of the video provider Required Hosting provider of the video, either youtube or vimeo YouTube To embed the following YouTube video at url https://www.youtube.com/watch?v=-PVofD2A9t8 (long version) or https://youtu.be/-PVofD2A9t8...","categories": ["Layout","Uncategorized"],
+        "title": "Audiobook-Shelf (for Naver AudioClip)",
+        "excerpt":"Download: PDF, 기사보도, Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical book-...","categories": ["Research"],
         "tags": ["video","layout"],
-        "url": "/layout/uncategorized/layout-header-video-copy/",
-        "teaser": null
-      },{
-        "title": "Layout: Header Video",
-        "excerpt":"This post should display a header with a responsive video, if the theme supports it. Audiobook-Shelf (for Naver AudioClip) Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device...","categories": ["Layout","Uncategorized"],
-        "tags": ["video","layout"],
-        "url": "/layout/uncategorized/layout-header-video/",
+        "url": "/research/audiobook-shelf/",
         "teaser": null
       }]

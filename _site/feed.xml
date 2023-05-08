@@ -1,4 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-08T13:33:53+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kyung-Ryong Lee’s portfolio</title><subtitle>An portfolio website.</subtitle><author><name>Kyung-Ryong Lee</name></author><entry><title type="html">Exclude Post from Search Index</title><link href="http://localhost:4000/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00+09:00</published><updated>2018-02-19T22:05:34+09:00</updated><id>http://localhost:4000/jekyll/post-exclude-search</id><content type="html" xml:base="http://localhost:4000/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-08T18:43:38+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">VIDEO ARCHIVES</title><subtitle>An portfolio website.</subtitle><author><name>Kyung-Ryong Lee</name></author><entry><title type="html">Audiobook-Shelf (for Naver AudioClip)</title><link href="http://localhost:4000/research/audiobook-shelf/" rel="alternate" type="text/html" title="Audiobook-Shelf (for Naver AudioClip)" /><published>2021-05-20T00:00:00+09:00</published><updated>2021-05-20T00:00:00+09:00</updated><id>http://localhost:4000/research/audiobook-shelf</id><content type="html" xml:base="http://localhost:4000/research/audiobook-shelf/">&lt;!-- This post should display a **header with a responsive video**, if the theme supports it. --&gt;
+
+&lt;footer class=&quot;page__meta&quot;&gt;
+  &lt;p class=&quot;page__taxonomy&quot;&gt;
+    &lt;strong&gt;&lt;i class=&quot;fas fa-fw fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Download: &lt;/strong&gt;
+    &lt;span itemprop=&quot;keywords&quot;&gt;
+      &lt;a href=&quot;https://drive.google.com/file/d/1iMhG9OqBHti9NG055KylzMzfYmSUVkEg/view?usp=share_link&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;PDF&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;, &lt;/span&gt;
+      &lt;a href=&quot;http://www.ulkyung.kr/news/articleView.html?idxno=2592&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;기사보도&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;, &lt;/span&gt;
+    &lt;/span&gt;
+  &lt;/p&gt;
+ &lt;/footer&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.esdrop.com/d/ZklKfna5T3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical book- shelf. ADIO displays a user’s listening progress through a pendant’s changing length and the user’s digital audiobook archive titles. The result of our four-week in-feld study with six participants revealed that ADIO provided proof of the user’s listening-to, which brought a sense of reading and gave a trigger for recalling the listened-to audiobook content. Additionally, audiobooks’ improved visibility reminded participants to listen to them, and ADIO’s physical inter- action allowed participants to form personal patterns for listening to audiobooks. Our fndings proposed new methods for augmenting the audiobook listening experience at three stages and further im- plications for designing physical curation on users’ digital archives.&lt;/p&gt;
+
+&lt;footer class=&quot;page__meta&quot;&gt;
+  &lt;p class=&quot;page__taxonomy&quot;&gt;
+    &lt;strong&gt;&lt;i class=&quot;fas fa-fw fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Download: &lt;/strong&gt;
+    &lt;span itemprop=&quot;keywords&quot;&gt;
+      &lt;a href=&quot;https://drive.google.com/file/d/1iMhG9OqBHti9NG055KylzMzfYmSUVkEg/view?usp=share_link&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;PDF&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;, &lt;/span&gt;
+      &lt;!-- &lt;a href=&quot;/tags/#video&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;detail&lt;/a&gt; --&gt;
+      &lt;!-- &lt;a href=&quot;/tags/#layout&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;layout&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;, &lt;/span&gt;
+      &lt;a href=&quot;/tags/#video&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;video&lt;/a&gt; --&gt;
+    &lt;/span&gt;
+  &lt;/p&gt;
+&lt;!-- 
+  &lt;p class=&quot;page__taxonomy&quot;&gt;
+    &lt;strong&gt;&lt;i class=&quot;fas fa-fw fa-folder-open&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Categories: &lt;/strong&gt;
+    &lt;span itemprop=&quot;keywords&quot;&gt;    
+      &lt;a href=&quot;/categories/#layout&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;Layout&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;, &lt;/span&gt;
+      &lt;a href=&quot;/categories/#uncategorized&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;Uncategorized&lt;/a&gt;
+    &lt;/span&gt;
+  &lt;/p&gt;
+   --&gt;
+  &lt;p class=&quot;page__date&quot;&gt;&lt;strong&gt;&lt;i class=&quot;fas fa-fw fa-calendar-alt&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Updated:&lt;/strong&gt; &lt;time class=&quot;dt-published&quot; datetime=&quot;2017-01-23T00:00:00+09:00&quot;&gt;January 23, 2017&lt;/time&gt;&lt;/p&gt;
+
+ &lt;/footer&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Parameter&lt;/th&gt;
+      &lt;th&gt;Required&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ID of the video&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;provider&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Hosting provider of the video, either &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;youtube&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vimeo&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;settings&quot;&gt;Settings&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Parameter&lt;/th&gt;
+      &lt;th&gt;Required&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ID of the video&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;provider&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Hosting provider of the video, either &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;youtube&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vimeo&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;youtube&quot;&gt;YouTube&lt;/h3&gt;
+
+&lt;p&gt;To embed the following YouTube video at url &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://www.youtube.com/watch?v=-PVofD2A9t8&lt;/code&gt; (long version) or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://youtu.be/-PVofD2A9t8&lt;/code&gt; (short version) into a post or page’s main content you’d use:&lt;/p&gt;
+
+&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;-PVofD2A9t8&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;youtube&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!-- Courtesy of embedresponsively.com --&gt;
+
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/-PVofD2A9t8&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;To embed it as a video header you’d use the following YAML Front Matter&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;-PVofD2A9t8&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;vimeo&quot;&gt;Vimeo&lt;/h3&gt;
+
+&lt;p&gt;To embed the following Vimeo video at url &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://vimeo.com/212731897&lt;/code&gt; into a post or page’s main content you’d use:&lt;/p&gt;
+
+&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;212731897&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;vimeo&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!-- Courtesy of embedresponsively.com --&gt;
+
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+    &lt;iframe src=&quot;https://player.vimeo.com/video/212731897?dnt=true&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;To embed it as a video header you’d use the following YAML Front Matter&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;212731897&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;vimeo&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!-- 
+## Audiobook-Shelf (for Naver AudioClip)
+
+
+
+
+
+
+
+&lt;!-- Courtesy of embedresponsively.com --&gt;
+
+&lt;div class=&quot;responsive-video-container&quot;&gt;
+    &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/QflAEJzDn5A&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;–&amp;gt;&lt;/p&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Research" /><category term="video" /><category term="layout" /><summary type="html"></summary></entry><entry><title type="html">Exclude Post from Search Index</title><link href="http://localhost:4000/jekyll/post-exclude-search/" rel="alternate" type="text/html" title="Exclude Post from Search Index" /><published>2017-11-28T00:00:00+09:00</published><updated>2018-02-19T22:05:34+09:00</updated><id>http://localhost:4000/jekyll/post-exclude-search</id><content type="html" xml:base="http://localhost:4000/jekyll/post-exclude-search/">&lt;p&gt;This post should not appear in the search index because it has the following YAML Front Matter:&lt;/p&gt;
 
 &lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;false&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -15,171 +157,7 @@
     &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;excluded-file.html&lt;/span&gt;
     &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;_posts/2017-11-28-post-exclude-search.md&lt;/span&gt;
     &lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;subdirectory/*.html&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Jekyll" /><summary type="html">This post should not appear in the search index because it has the following YAML Front Matter:</summary></entry><entry><title type="html">Layout: Header Video</title><link href="http://localhost:4000/layout/uncategorized/layout-header-video-copy/" rel="alternate" type="text/html" title="Layout: Header Video" /><published>2017-01-23T00:00:00+09:00</published><updated>2017-01-23T00:00:00+09:00</updated><id>http://localhost:4000/layout/uncategorized/layout-header-video%20copy</id><content type="html" xml:base="http://localhost:4000/layout/uncategorized/layout-header-video-copy/">&lt;p&gt;This post should display a &lt;strong&gt;header with a responsive video&lt;/strong&gt;, if the theme supports it.&lt;/p&gt;
-
-&lt;h2 id=&quot;settings&quot;&gt;Settings&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Parameter&lt;/th&gt;
-      &lt;th&gt;Required&lt;/th&gt;
-      &lt;th&gt;Description&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;ID of the video&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;provider&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Hosting provider of the video, either &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;youtube&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vimeo&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;youtube&quot;&gt;YouTube&lt;/h3&gt;
-
-&lt;p&gt;To embed the following YouTube video at url &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://www.youtube.com/watch?v=-PVofD2A9t8&lt;/code&gt; (long version) or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://youtu.be/-PVofD2A9t8&lt;/code&gt; (short version) into a post or page’s main content you’d use:&lt;/p&gt;
-
-&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;-PVofD2A9t8&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;youtube&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;!-- Courtesy of embedresponsively.com --&gt;
-
-&lt;div class=&quot;responsive-video-container&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/-PVofD2A9t8&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;To embed it as a video header you’d use the following YAML Front Matter&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;-PVofD2A9t8&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;vimeo&quot;&gt;Vimeo&lt;/h3&gt;
-
-&lt;p&gt;To embed the following Vimeo video at url &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://vimeo.com/212731897&lt;/code&gt; into a post or page’s main content you’d use:&lt;/p&gt;
-
-&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;212731897&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;vimeo&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;!-- Courtesy of embedresponsively.com --&gt;
-
-&lt;div class=&quot;responsive-video-container&quot;&gt;
-    &lt;iframe src=&quot;https://player.vimeo.com/video/212731897?dnt=true&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;To embed it as a video header you’d use the following YAML Front Matter&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;212731897&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;vimeo&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Layout" /><category term="Uncategorized" /><category term="video" /><category term="layout" /><summary type="html">This post should display a header with a responsive video, if the theme supports it.</summary></entry><entry><title type="html">Layout: Header Video</title><link href="http://localhost:4000/layout/uncategorized/layout-header-video/" rel="alternate" type="text/html" title="Layout: Header Video" /><published>2017-01-23T00:00:00+09:00</published><updated>2017-01-23T00:00:00+09:00</updated><id>http://localhost:4000/layout/uncategorized/layout-header-video</id><content type="html" xml:base="http://localhost:4000/layout/uncategorized/layout-header-video/">&lt;p&gt;This post should display a &lt;strong&gt;header with a responsive video&lt;/strong&gt;, if the theme supports it.&lt;/p&gt;
-
-&lt;h2 id=&quot;audiobook-shelf-for-naver-audioclip&quot;&gt;Audiobook-Shelf (for Naver AudioClip)&lt;/h2&gt;
-
-&lt;!-- Courtesy of embedresponsively.com --&gt;
-
-&lt;div class=&quot;responsive-video-container&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/QflAEJzDn5A&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical book- shelf. ADIO displays a user’s listening progress through a pendant’s changing length and the user’s digital audiobook archive titles. The result of our four-week in-feld study with six participants revealed that ADIO provided proof of the user’s listening-to, which brought a sense of reading and gave a trigger for recalling the listened-to audiobook content. Additionally, audiobooks’ improved visibility reminded participants to listen to them, and ADIO’s physical inter- action allowed participants to form personal patterns for listening to audiobooks. Our fndings proposed new methods for augmenting the audiobook listening experience at three stages and further im- plications for designing physical curation on users’ digital archives.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Parameter&lt;/th&gt;
-      &lt;th&gt;Required&lt;/th&gt;
-      &lt;th&gt;Description&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;ID of the video&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;provider&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Hosting provider of the video, either &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;youtube&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vimeo&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;settings&quot;&gt;Settings&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Parameter&lt;/th&gt;
-      &lt;th&gt;Required&lt;/th&gt;
-      &lt;th&gt;Description&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;id&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;ID of the video&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;provider&lt;/code&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;strong&gt;Required&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;Hosting provider of the video, either &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;youtube&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vimeo&lt;/code&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;youtube&quot;&gt;YouTube&lt;/h3&gt;
-
-&lt;p&gt;To embed the following YouTube video at url &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://www.youtube.com/watch?v=-PVofD2A9t8&lt;/code&gt; (long version) or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://youtu.be/-PVofD2A9t8&lt;/code&gt; (short version) into a post or page’s main content you’d use:&lt;/p&gt;
-
-&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;-PVofD2A9t8&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;youtube&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;!-- Courtesy of embedresponsively.com --&gt;
-
-&lt;div class=&quot;responsive-video-container&quot;&gt;
-    &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/-PVofD2A9t8&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;To embed it as a video header you’d use the following YAML Front Matter&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;-PVofD2A9t8&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;youtube&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;vimeo&quot;&gt;Vimeo&lt;/h3&gt;
-
-&lt;p&gt;To embed the following Vimeo video at url &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://vimeo.com/212731897&lt;/code&gt; into a post or page’s main content you’d use:&lt;/p&gt;
-
-&lt;div class=&quot;language-liquid highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;212731897&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;vimeo&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;%}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;!-- Courtesy of embedresponsively.com --&gt;
-
-&lt;div class=&quot;responsive-video-container&quot;&gt;
-    &lt;iframe src=&quot;https://player.vimeo.com/video/212731897?dnt=true&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;To embed it as a video header you’d use the following YAML Front Matter&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;header&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;video&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;212731897&lt;/span&gt;
-    &lt;span class=&quot;na&quot;&gt;provider&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;vimeo&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Layout" /><category term="Uncategorized" /><category term="video" /><category term="layout" /><summary type="html">This post should display a header with a responsive video, if the theme supports it.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-02-24T00:00:00+09:00</published><updated>2016-02-24T00:00:00+09:00</updated><id>http://localhost:4000/jekyll/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in &lt;a href=&quot;https://jekyllrb.com/docs/usage/&quot;&gt;many different ways&lt;/a&gt;, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Jekyll" /><summary type="html">This post should not appear in the search index because it has the following YAML Front Matter:</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-02-24T00:00:00+09:00</published><updated>2016-02-24T00:00:00+09:00</updated><id>http://localhost:4000/jekyll/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in &lt;a href=&quot;https://jekyllrb.com/docs/usage/&quot;&gt;many different ways&lt;/a&gt;, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt;&lt;sup id=&quot;fnref:posts&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:posts&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -769,4 +747,424 @@
 &lt;ul&gt;
   &lt;li&gt;The post title renders the word “with” in &lt;em&gt;italics&lt;/em&gt; and the word “Markdown” in &lt;strong&gt;bold&lt;/strong&gt;.&lt;/li&gt;
   &lt;li&gt;The post title markup should be removed from the browser window / tab.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Markdown" /><category term="css" /><category term="html" /><category term="title" /><summary type="html">Verify that:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Markdown" /><category term="css" /><category term="html" /><category term="title" /><summary type="html">Verify that:</summary></entry><entry><title type="html">Markup: Title with Special — Characters</title><link href="http://localhost:4000/markup/markup-title-with-special-characters/" rel="alternate" type="text/html" title="Markup: Title with Special — Characters" /><published>2013-01-05T00:00:00+09:00</published><updated>2013-01-05T00:00:00+09:00</updated><id>http://localhost:4000/markup/markup-title-with-special-characters</id><content type="html" xml:base="http://localhost:4000/markup/markup-title-with-special-characters/">&lt;p&gt;Putting special characters in the title should have no adverse effect on the layout or functionality.&lt;/p&gt;
+
+&lt;p&gt;Special characters in the post title have been known to cause issues with JavaScript and XML when not properly encoded and escaped.&lt;/p&gt;
+
+&lt;h2 id=&quot;latin-character-tests&quot;&gt;Latin Character Tests&lt;/h2&gt;
+
+&lt;p&gt;This is a test to see if the fonts used in this theme support basic Latin characters.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      !
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &amp;#8220;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      #
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      $
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      %
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &amp;amp;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &amp;#8216;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      (
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      )
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      *
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      +
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      ,
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &amp;#8211;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      .
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      /
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      1
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      2
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      3
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      4
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      5
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      6
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      7
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      8
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      9
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      :
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      ;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &amp;gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      =
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      &amp;lt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      ?
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      @
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      A
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      B
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      C
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      D
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      E
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      F
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      G
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      H
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      I
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      J
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      K
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      L
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      M
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      N
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      O
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      P
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Q
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      R
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      S
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      T
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      U
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      V
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      W
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      X
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Y
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      Z
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      [
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      ]
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      ^
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      _
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      `
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      a
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      b
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      c
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      d
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      e
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      f
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      g
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      h
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      i
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      j
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      k
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      l
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      m
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      n
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      o
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      p
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      q
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      r
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      s
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      t
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      u
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      v
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      w
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      x
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      y
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      z
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  
+  &lt;tr&gt;
+    &lt;td&gt;
+      {
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      |
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      }
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+      ~
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+    
+    &lt;td&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Kyung-Ryong Lee</name></author><category term="Markup" /><category term="html" /><category term="markup" /><category term="post" /><category term="title" /><summary type="html">Putting special characters in the title should have no adverse effect on the layout or functionality.</summary></entry></feed>
