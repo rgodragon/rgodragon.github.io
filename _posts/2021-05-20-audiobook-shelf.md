@@ -2,7 +2,7 @@
 title: "Audiobook-Shelf (for Naver AudioClip)"
 header:
   video:
-    id: QflAEJzDn5A
+    id: 7O4_Z_1cJk8
     provider: youtube
 tags:
   - video
@@ -23,9 +23,13 @@ tags:
 
  ![](https://i.esdrop.com/d/ZklKfna5T3.jpg)
 
+![](/assets/images/ADIO-0.png)
+![](/assets/images/ADIO-2.png)
+![](/assets/images/ADIO-3.png)
 
-Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical book- shelf. ADIO displays a user’s listening progress through a pendant’s changing length and the user’s digital audiobook archive titles. The result of our four-week in-feld study with six participants revealed that ADIO provided proof of the user’s listening-to, which brought a sense of reading and gave a trigger for recalling the listened-to audiobook content. Additionally, audiobooks’ improved visibility reminded participants to listen to them, and ADIO’s physical inter- action allowed participants to form personal patterns for listening to audiobooks. Our fndings proposed new methods for augmenting the audiobook listening experience at three stages and further im- plications for designing physical curation on users’ digital archives.
 
+<p style="font-size:2"> Although audiobooks are increasingly being used, people tend to perceive audiobook experiences as ’not real reading’ due to its in- tangibility and ephemerality. In this paper, we developed ADIO, a device augmenting audiobook experience through representing personal listening state in the form of an interactive physical book- shelf. ADIO displays a user’s listening progress through a pendant’s changing length and the user’s digital audiobook archive titles. The result of our four-week in-feld study with six participants revealed that ADIO provided proof of the user’s listening-to, which brought a sense of reading and gave a trigger for recalling the listened-to audiobook content. Additionally, audiobooks’ improved visibility reminded participants to listen to them, and ADIO’s physical inter- action allowed participants to form personal patterns for listening to audiobooks. Our fndings proposed new methods for augmenting the audiobook listening experience at three stages and further im- plications for designing physical curation on users’ digital archives.
+</p>
 
 <footer class="page__meta">
   <p class="page__taxonomy">
