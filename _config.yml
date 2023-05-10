@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VIDEO ARCHIVES"
+title                    : "Kyung-Ryong Lee's Project Archives"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kyung-Ryong Lee"
@@ -105,16 +105,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kyung-Ryong Lee"
+  name             : "Ph.D. Kyung-Ryong Lee"
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D in Creative Design Engineering, UNIST" 
+  bio              : "Creative Design Engineering  
+                      UNIST" 
   location         : 
   email            :
   links:
     - label: "Download CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "https://drive.google.com/file/d/1_oVHNpPmMhDzPBz5SG5AjknCgIBM72uT/view?usp=share_link"
-    - label: "Summary of Doctoral Research"
+    - label: "Doctoral Research Summary"
       icon: "fas fa-fw fa-file-pdf"
       url: "https://drive.google.com/file/d/1ABMeNM0Ldj9NpAFRDeVf-P0b2tBQLHVU/view?usp=share_link"
     - label: "rgodragon@gmail.com"
@@ -291,8 +292,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: #true
-      read_time: true
+      author_profile: true
+      read_time: #true
       comments: # true
       share: true
       related: true
