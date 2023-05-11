@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-10T18:01:06+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kyung-Ryong Lee’s Project Archives</title><subtitle>An portfolio website.</subtitle><author><name>Ph.D. Kyung-Ryong Lee</name></author><entry><title type="html">Audiobook-Shelf (for Naver AudioClip)</title><link href="http://localhost:4000/audiobook-shelf/" rel="alternate" type="text/html" title="Audiobook-Shelf (for Naver AudioClip)" /><published>2021-05-20T00:00:00+09:00</published><updated>2021-05-20T00:00:00+09:00</updated><id>http://localhost:4000/audiobook-shelf</id><content type="html" xml:base="http://localhost:4000/audiobook-shelf/">&lt;footer class=&quot;page__meta&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-11T19:09:34+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kyung-Ryong Lee’s Project Archives</title><subtitle>An portfolio website.</subtitle><author><name>Ph.D. Kyung-Ryong Lee</name></author><entry><title type="html">Audiobook-Shelf (for Naver AudioClip)</title><link href="http://localhost:4000/audiobook-shelf/" rel="alternate" type="text/html" title="Audiobook-Shelf (for Naver AudioClip)" /><published>2021-05-20T00:00:00+09:00</published><updated>2021-05-20T00:00:00+09:00</updated><id>http://localhost:4000/audiobook-shelf</id><content type="html" xml:base="http://localhost:4000/audiobook-shelf/">&lt;footer class=&quot;page__meta&quot;&gt;
   &lt;p class=&quot;page__taxonomy&quot;&gt;
     &lt;strong&gt;&lt;i class=&quot;fas fa-fw fa-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Link: &lt;/strong&gt;
     &lt;span itemprop=&quot;keywords&quot;&gt;
@@ -6,7 +6,7 @@
       &lt;a href=&quot;http://www.ulkyung.kr/news/articleView.html?idxno=2592&quot; class=&quot;page__taxonomy-item p-category&quot; rel=&quot;tag&quot;&gt;Press Release&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;, &lt;/span&gt;
     &lt;/span&gt;
   &lt;/p&gt;
-    &lt;p class=&quot;page__taxonomy&quot;&gt;
+  &lt;p class=&quot;page__taxonomy&quot;&gt;
     &lt;strong&gt;&lt;i class=&quot;fas fa-fw fa-key&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; Keywords: &lt;/strong&gt;
     &lt;span itemprop=&quot;keywords&quot;&gt;
       &lt;a class=&quot;page__taxonomy-item p-category&quot; style=&quot;text-decoration:none&quot; rel=&quot;tag&quot;&gt;
@@ -129,7 +129,7 @@
 &lt;br /&gt;
 &lt;!-- ![](/assets/images/ADIO-analysis.png) --&gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/ADIO-analysis.png&quot; width=&quot;800px&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;매주 인터뷰를 진행하였고, 1,155분의 인터뷰데이터를 얻었습니다. 모든 데이터는 Transcription되었으며, 질적데이터 분석 방법인 Thematic analysis를 진행하였습니다. 더불어 사용자가 오디오북 청취 기록 및 Audiobook-Shelf 사용 로그를 기록하였습니다. 이에 인터뷰 데이터로 얻어진 결과와, 로그데이터를 삼각  검증(Triangulation)하여 의미있는 파인딩을 얻었습니다.
+&lt;p&gt;매주 인터뷰를 진행하였고, 1,155분의 인터뷰데이터를 얻었습니다. 모든 데이터는 Transcription되었으며, 질적데이터 분석 방법인 Thematic analysis를 진행하였습니다. 더불어 사용자가 오디오북 청취 기록 및 Audiobook-Shelf 사용 로그를 기록하였습니다. 이에 인터뷰 데이터로 얻어진 결과와, 로그데이터를 삼각 검증(Triangulation)하여 의미있는 파인딩을 얻었습니다.
 &lt;br /&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -140,7 +140,7 @@
 &lt;h2 id=&quot;오디오를-듣는다-에서-독서로&quot;&gt;‘오디오를 듣는다’ 에서 ‘독서’로&lt;/h2&gt;
 &lt;!-- ![](/assets/images/ADIO-finding.png) --&gt;
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/ADIO-finding.png&quot; width=&quot;800px&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;인터뷰를 통해, Audiobook-Shelf의 길이가 변화하는 펜듈럼은 오디오북 청취를 독서의 물리적 증거로 남김으로써, 참가자들이 오디오북이 더 이상 오디오 파일이  아닌, 책으로써 인지하게 하는데 도움이 되었음을 확인하였습니다.&lt;/p&gt;
+&lt;p&gt;인터뷰를 통해, Audiobook-Shelf의 길이가 변화하는 펜듈럼은 오디오북 청취를 독서의 물리적 증거로 남김으로써, 참가자들이 오디오북이 더 이상 오디오 파일이 아닌, 책으로써 인지하게 하는데 도움이 되었음을 확인하였습니다.&lt;/p&gt;
 
 &lt;!-- ![](/assets/images/ADIO-finding2.png) --&gt;
 &lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;/assets/images/ADIO-finding2.png&quot; width=&quot;800px&quot; /&gt;&lt;/p&gt;
