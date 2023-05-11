@@ -17,7 +17,7 @@ header:
       <a href="http://www.ulkyung.kr/news/articleView.html?idxno=2592" class="page__taxonomy-item p-category" rel="tag">Press Release</a><span class="sep">, </span>
     </span>
   </p>
-    <p class="page__taxonomy">
+  <p class="page__taxonomy">
     <strong><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keywords: </strong>
     <span itemprop="keywords">
       <a class="page__taxonomy-item p-category" style="text-decoration:none" rel="tag">
@@ -142,7 +142,7 @@ Audiobook-Shelf는 디지털 오디오북 스트리밍 서비스인 네이버 �
 <br>
 <!-- ![](/assets/images/ADIO-analysis.png) -->
 <p align="center"><img src="/assets/images/ADIO-analysis.png" width="800px"></p>
-매주 인터뷰를 진행하였고, 1,155분의 인터뷰데이터를 얻었습니다. 모든 데이터는 Transcription되었으며, 질적데이터 분석 방법인 Thematic analysis를 진행하였습니다. 더불어 사용자가 오디오북 청취 기록 및 Audiobook-Shelf 사용 로그를 기록하였습니다. 이에 인터뷰 데이터로 얻어진 결과와, 로그데이터를 삼각  검증(Triangulation)하여 의미있는 파인딩을 얻었습니다.
+매주 인터뷰를 진행하였고, 1,155분의 인터뷰데이터를 얻었습니다. 모든 데이터는 Transcription되었으며, 질적데이터 분석 방법인 Thematic analysis를 진행하였습니다. 더불어 사용자가 오디오북 청취 기록 및 Audiobook-Shelf 사용 로그를 기록하였습니다. 이에 인터뷰 데이터로 얻어진 결과와, 로그데이터를 삼각 검증(Triangulation)하여 의미있는 파인딩을 얻었습니다.
 <br>
 <br>
 <br>
@@ -153,7 +153,7 @@ Audiobook-Shelf는 디지털 오디오북 스트리밍 서비스인 네이버 �
 ## ‘오디오를 듣는다’ 에서 ‘독서’로
 <!-- ![](/assets/images/ADIO-finding.png) -->
 <p align="center"><img src="/assets/images/ADIO-finding.png" width="800px"></p>
-인터뷰를 통해, Audiobook-Shelf의 길이가 변화하는 펜듈럼은 오디오북 청취를 독서의 물리적 증거로 남김으로써, 참가자들이 오디오북이 더 이상 오디오 파일이  아닌, 책으로써 인지하게 하는데 도움이 되었음을 확인하였습니다. 
+인터뷰를 통해, Audiobook-Shelf의 길이가 변화하는 펜듈럼은 오디오북 청취를 독서의 물리적 증거로 남김으로써, 참가자들이 오디오북이 더 이상 오디오 파일이 아닌, 책으로써 인지하게 하는데 도움이 되었음을 확인하였습니다. 
 
 <!-- ![](/assets/images/ADIO-finding2.png) -->
 <p align="center"><img src="/assets/images/ADIO-finding2.png" width="800px"></p>
